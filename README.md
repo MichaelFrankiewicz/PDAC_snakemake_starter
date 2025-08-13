@@ -47,4 +47,3 @@ snakemake --profile profiles/slurm
 - FASTA: Ensembl GRCh38 primary assembly
 - GTF: Ensembl gene annotation (versioned, e.g., 109)
 
-> Tip: Commit this repo, then open a PR for each change (parameters, new rules, etc.) to showcase reproducible research skills.
